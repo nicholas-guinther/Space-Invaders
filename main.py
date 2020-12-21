@@ -1,3 +1,6 @@
+# Nick Guinther
+# 12/20/20
+
 import pygame
 
 # Use this code to initialize pygame
